@@ -1,6 +1,8 @@
 # positivity_checker_app
 
-A new Flutter application.
+A new Flutter application. Which is designed to check how much a person thinks positive.
+It asks user a series of questions and based on the answers given by user it evaluates
+how much a person is positive.
 
 ## Getting Started
 
